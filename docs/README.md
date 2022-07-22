@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/listing.svg
+cover: .gitbook/assets/logo_with_toys_submarine_linkedin_bg (1).png
 coverY: 0
 ---
 
